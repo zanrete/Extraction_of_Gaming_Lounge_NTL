@@ -1,0 +1,1 @@
+Repository of info I've pulled from the Gaming Lounge guide so I can do and offline comparison between it and a conglomeration I've previously amde for privacy/security and gaming optimization with multi-profile usage.
